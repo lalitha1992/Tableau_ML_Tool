@@ -1,0 +1,29 @@
+Links:
+
+
+1st day:
+
+1.Import data
+2.Prepare data
+
+visualization- converting raw data to information and that to insight. we get easily get info from graphical and pictorial representation
+
+parameters used
+
+colour- categorical and also continous like dif shades for diff values
+shape- used for continous variable
+size- used for continous variable
+proximity- corona affected areas. dots of affected areas with dots on a orld map. parametersgetting affected by proximity
+
+info graphics- on the graph showing rain,sun to show weather
+Augmented reality-games. showing info with real-time data
+Virtual Reality-
+
+propotional method- size
+color- dark high and light low
+Categories and Measure
+
+Exercise
+Public tableau -gmail/+1
+search: lalitha gudapakkam
+Tableau_Ex1
