@@ -1,5 +1,6 @@
 Links:
-
+https://public.tableau.com/app/profile/lalitha3393
+lathum17/+1
 
 1st day:
 
@@ -27,3 +28,46 @@ Exercise
 Public tableau -gmail/+1
 search: lalitha gudapakkam
 Tableau_Ex1
+
+
+Derived fields
+conditions
+rank
+sets
+dynamic set or sets with parameter 
+Pages
+import to excel,powerpoint,pdf
+
+combined set
+combined fields
+sort
+group
+bins
+funnel chart
+bring total from analytics
+universal filter indashboard
+image text
+button -navigation- presentatio mode
+return to main
+
+
+analytics
+
+world  data
+constant line
+avg line
+box plot-- cannot see box plot with aggregated date
+median line with % 
+avg line with %
+trend line
+mapping--- edit locaion in menu/'-=
+
+Sampl-Superstore
+World Indicator
+include
+exclude
+fixed lod(levelof detail)
+word art
+rank chart
+reset button
+dril down dashboard
